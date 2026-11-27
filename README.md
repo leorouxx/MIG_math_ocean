@@ -1,0 +1,2 @@
+Cette branche est gérée par le groupe s'intéressant à la détection de caustiques acoustiques, conséquences de la propagation dans le mileu marin.
+Notre objectif est d'implémenter un critère numérique permettant de détecter la présence de ces singularités, et d'invalider toute simulation les ayant traversées.
